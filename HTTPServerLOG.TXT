@@ -1,0 +1,14 @@
+11/30/2015-15:51:19 -  HTTP Server 准备就绪.
+11/30/2015-15:51:27 -  HTTP Server 启动失败,已经在运行或者端口[80]被占用..
+11/30/2015-15:51:49 -  HTTP Server 启动失败,已经在运行或者端口[80]被占用..
+11/30/2015-15:51:59 -  HTTP Server 启动失败,已经在运行或者端口[80]被占用..
+11/30/2015-15:55:14 -  HTTP Server 准备就绪.
+11/30/2015-15:55:39 -  HTTP Server 启动失败,已经在运行或者端口[80]被占用..
+11/30/2015-15:55:56 -  HTTP Server 准备就绪.
+11/30/2015-15:56:01 -  HTTP Server 启动成功,根目录[D:\SourceCode\HTTPServer],端口[80],最大连接数[5000].
+11/30/2015-17:10:51 -  HTTP Server 准备就绪.
+11/30/2015-17:13:14 -  HTTP Server 准备就绪.
+11/30/2015-17:13:24 -  HTTP Server URL is http://localhost/Git基本常用命令.txt 
+11/30/2015-17:13:24 -  HTTP Server 启动成功,根目录[D:\SourceCode\HTTPServer],端口[80],最大连接数[5000].
+11/30/2015-17:14:55 -  HTTP Server 准备就绪.
+11/30/2015-17:15:00 -  HTTP Server URL is http://localhost/Git基本常用命令.txt 
